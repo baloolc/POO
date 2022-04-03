@@ -1,6 +1,6 @@
 <?php
 
-  class Vehicle
+ class Vehicle
 
 {
 
